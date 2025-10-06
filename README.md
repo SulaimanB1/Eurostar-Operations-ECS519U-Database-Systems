@@ -1,6 +1,6 @@
 # Eurostar Database Design (ECS519U Database Systems)
 
-A database built to model Eurostar's operations made in SQL. 
+A database built to model Eurostar's operations made in SQL.
 
 This project was made for laboratory work in QMUL ECS519U Database Systems in 2022.
 
