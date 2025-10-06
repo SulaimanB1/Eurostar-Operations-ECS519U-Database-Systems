@@ -4,6 +4,7 @@ A database built to model Eurostar's operations made in SQL.
 
 This project was made for laboratory work in QMUL ECS519U Database Systems in 2022.
 
+
 The project models Eurostar’s train operations, routes, employees, and passengers.
 
 ## Entity-Relationship Model
